@@ -1,4 +1,4 @@
-#!/bin/bash test
+#!/bin/bash
 
 lockfile .screen
 
